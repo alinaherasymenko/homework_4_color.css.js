@@ -1,0 +1,37 @@
+button {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+
+  .purple {
+    background-color: #c56cf0;
+    color: white;
+  }
+
+  .pink {
+    background-color: #fd79a8;
+    color: white;
+  }
+
+  .orangered {
+    background-color: #ff3838;
+    color: white;
+  }
+
+  .turquoise {
+    background-color: #48dbfb;
+    color: white;
+  }
+
+  .blue {
+    background-color: #0652DD;
+    color: white;
+  }
+
+
+  
